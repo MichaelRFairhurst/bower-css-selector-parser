@@ -13,7 +13,7 @@
   }, {
     "name": "Michael R Fairhurst",
     "email": "michaelrfairhurst@gmail.com"
-  }},
+  }],
   "dependencies": {},
   "devDependencies": {
     "coffee-script": "^1.9.3",
