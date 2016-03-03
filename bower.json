@@ -1,0 +1,33 @@
+{
+  "name": "css-selector-parser",
+  "version": "1.1.0",
+  "description": "Just porting a node module (self describe as just a CSS selector parser) to bower.",
+  "keywords": [
+    "css",
+    "css selector",
+    "css selector parser"
+  ],
+  "authors": [{
+    "name": "Marat Dulin",
+    "email": "mdevils@yandex.ru"
+  }, {
+    "name": "Michael R Fairhurst",
+    "email": "michaelrfairhurst@gmail.com"
+  }},
+  "dependencies": {},
+  "devDependencies": {
+    "coffee-script": "^1.9.3",
+    "colors": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MichaelRFairhurst/bower-css-selector-parser.git"
+  },
+  "main": "lib/css-selector-parser.js",
+  "license": "MIT",
+  "ignore": [
+    "test",
+	"README.md",
+	"benchmark"
+  ]
+}
