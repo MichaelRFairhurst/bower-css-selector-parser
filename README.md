@@ -1,5 +1,4 @@
-node-css-selector-parser [![Build Status](https://travis-ci.org/mdevils/node-css-selector-parser.svg?branch=master)](https://travis-ci.org/mdevils/node-css-selector-parser)
-========================
+This is a bower port of https://github.com/mdevils/node-css-selector-parser
 
 Fast and low memory CSS selector parser.
 
@@ -9,7 +8,7 @@ Installation
 ------------
 
 ```
-npm install css-selector-parser
+bower install css-selector-parser
 ```
 
 Usage
